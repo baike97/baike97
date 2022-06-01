@@ -2,8 +2,8 @@
 
 # Eu:
 
-Cursando Engenharia da computação.//
-Atualmente estudando desenvolvimento web, focando em javascript e node.js 
+- Cursando Engenharia da computação.
+- Atualmente estudando desenvolvimento web, focando em javascript e node.js 
 
 * [LinkedIn](https://www.linkedin.com/in/maike-bernardes-565a27236/)
 * [Dev.to](https://dev.to/baike97)
