@@ -5,8 +5,9 @@
 - Cursando Engenharia da computação.
 - Atualmente estudando desenvolvimento web Full Stack
 
-* [LinkedIn](https://www.linkedin.com/in/maike-bernardes-565a27236/)<i class="fa-brands fa-twitter-square"></i>
-* [Dev.to](https://dev.to/baike97)
+<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <h2>Stack</h2>
 
