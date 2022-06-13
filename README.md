@@ -8,12 +8,6 @@
 * [LinkedIn](https://www.linkedin.com/in/maike-bernardes-565a27236/)<i class="fa-brands fa-twitter-square"></i>
 * [Dev.to](https://dev.to/baike97)
 
-<ul style="vertical-align:top;">
-		<li  height="48" class="fa-brands fa-twitter-square"><a href="https://www.linkedin.com/in/maike-bernardes-565a27236/">LinkedIn</a></li>
-</ul>
-
-<i class="fa-brands fa-twitter-square"></i>
-
 <h2>Stack</h2>
 
 <section style="vertical-align:top;">
