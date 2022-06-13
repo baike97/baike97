@@ -1,6 +1,6 @@
-*Falhando miseravelmente na tentativa de imitar a icônica foto do Bill Nighy*
+<h1>Maike Bernardes</h1>
 
-# Eu:
+*Falhando miseravelmente na tentativa de imitar a icônica foto do Bill Nighy*
 
 - Cursando Engenharia da computação.
 - Atualmente estudando desenvolvimento web Full Stack
@@ -8,7 +8,7 @@
 * [LinkedIn](https://www.linkedin.com/in/maike-bernardes-565a27236/)
 * [Dev.to](https://dev.to/baike97)
 
-## Stack :
+<h2>Stack</h2>
 
 <section style="vertical-align:top;">
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
