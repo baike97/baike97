@@ -5,8 +5,8 @@
 - Cursando Engenharia da computação.
 - Atualmente estudando desenvolvimento web Full Stack
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
-  <img align="center" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a target="_blank" href="https://www.linkedin.com/in/maike-bernardes-565a27236/">
+  <img align="center" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <h2>Stack</h2>
