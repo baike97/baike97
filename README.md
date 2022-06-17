@@ -1,7 +1,5 @@
 <h1>Maike Bernardes</h1>
 
-*Falhando miseravelmente na tentativa de imitar a icônica foto do Bill Nighy*
-
 - Cursando Engenharia da computação.
 - Atualmente estudando desenvolvimento web Full Stack
 
