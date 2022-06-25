@@ -1,4 +1,6 @@
+<section style="text-align:center;">
 <h1>Maike Bernardes</h1>
+</section>
 
 - Cursando Engenharia da computação.
 - Atualmente estudando desenvolvimento web Full Stack
