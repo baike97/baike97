@@ -1,4 +1,4 @@
-<section style="text-align:center;">
+<section align="center">
 <h1>Maike Bernardes</h1>
 </section>
 
