@@ -13,7 +13,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/maike-bernardes-565a27236/">
   <img align="center" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/maike-bernardes-565a27236/">
+<a target="_blank" href="https://twitter.com/baike000">
   <img align="center" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
 </section>
