@@ -10,6 +10,7 @@
  </section>
 
 <section>
+  <h2>Contatos:</h2>
 <a target="_blank" href="https://www.linkedin.com/in/maike-bernardes-565a27236/">
   <img align="center" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
@@ -19,7 +20,7 @@
 </section>
 
 <section style="vertical-align:top;">
-  <h2>Stack</h2>
+  <h2>Linguagens e Ferramentas</h2>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
