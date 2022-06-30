@@ -2,21 +2,17 @@
 <h1>Maike Bernardes</h1>
 </section>
 
-<section>
   <ul>
     <li>Currently, I am studying Computer Engineering. </li>
   </ul>
- </section>
 
-<section>
-  <h2>Contact</h2>
+<h2>Contact</h2>
 <a target="_blank" href="https://www.linkedin.com/in/maike-bernardes-565a27236/">
   <img align="center" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a target="_blank" href="https://twitter.com/baike000">
   <img align="center" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
 </a>
-</section>
 
 <section style="vertical-align:top;">
   <h2>Languages & Tools:</h2>
