@@ -1,7 +1,5 @@
-<section align="center">
-<h1>Maike Bernardes</h1>
-</section>
-
+<h1 align="center">Maike Bernardes</h1>
+  
   <ul>
     <li>Currently, I am studying Computer Engineering. </li>
   </ul>
